@@ -38,7 +38,7 @@ def filter_and_group_players(players):
 
     Returns:
         dict: A dictionary where each key is a team name, and the corresponding value is a list of
-              player data dictionaries representing active offensive players on that team.
+            player data dictionaries representing active offensive players on that team.
 
     Example:
         grouped_players = filter_and_group_players(players)
